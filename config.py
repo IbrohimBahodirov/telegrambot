@@ -9,7 +9,7 @@ BOT_TOKEN = "8023865690:AAEbAxGdQiJSHbEP4uCsgGYh5qMzHhCge9E"
 #    - Savol yuborilganda SHU ID ga keladi
 #    - /lawyer da PAROLSIZ kiradi
 #    Topish: @userinfobot ga /start yuboring
-OWNER_ID =6534930071       # <── O'ZGARTIRING
+OWNER_ID =2080831010       # <── O'ZGARTIRING
 
 # 3. Boshqa yuristlar uchun parol (ixtiyoriy)
 LAWYER_PASSWORD = "yuristazizbek"   # <── O'ZGARTIRING
